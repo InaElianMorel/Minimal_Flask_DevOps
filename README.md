@@ -27,7 +27,7 @@ WHAT HAS TO BE DONE
 With an app deployed to Heroku : add the New Relic add-on
 Install new relic in the venv and add it to the requirements:  
 ```bash
-pip install new relic
+pip install newrelic
 ```
 Then change the Procfile to : 
 ```bash 
