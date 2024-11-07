@@ -37,3 +37,4 @@ Werkzeug==2.2.2
 greenlet==3.0.3
 gunicorn==20.1.0
 pytest
+newrelic
